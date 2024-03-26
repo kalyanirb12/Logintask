@@ -1,0 +1,44 @@
+.btn {
+    border: none;
+    background-color:#7754F6;
+    color:white ;
+    width:100%;
+    font-size: 1.2rem;
+
+
+}
+.login-baseline{
+    
+    color: grey;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+.login-title{
+    font-weight: 700;
+}
+.form-floating{
+    color: grey;
+    size: 0.1rem;
+    font-weight: 400;
+
+}
+.form-check-label{
+    color: grey;
+    size: 0.1rem;
+    font-weight: 400;
+}
+
+
+
+.forgot-pass-link {
+    text-decoration: none;
+    color:#7754F6;
+    margin-left: 10rem;
+}
+
+.text-center{
+    color: grey;
+    size: 0.1rem;
+    font-weight: 400;
+
+}
